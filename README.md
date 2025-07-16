@@ -13,7 +13,5 @@
 - ✅ Shows user answers vs correct answers after quiz
 - ✅ Designed with embedded-style logic and memory awareness
 
----
 
-## 🧠 Project Structure
 
